@@ -1,0 +1,12 @@
+  boolean r1 = (5 == 5);   
+  boolean r2 = (5 != 4);   
+  boolean r3 = (3 < 4);    
+  boolean r4 = (5 > 4);    
+  boolean r5 = (4 <= 4);   
+  boolean r6 = (5 >= 5);   
+  println("6.2 r1: " + r1);
+  println("6.2 r2: " + r2);
+  println("6.2 r3: " + r3);
+  println("6.2 r4: " + r4);
+  println("6.2 r5: " + r5);
+  println("6.2 r6: " + r6);
